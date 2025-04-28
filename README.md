@@ -1,4 +1,4 @@
-- # **Hi, I'm Bhavya**
+ # **Hi, I'm Bhavya! 👋**
   I am a dynamic and driven developer, focused on advancing my skills in front-end technologies and paving my path towards becoming a software engineer. My motivation stems from a genuine passion for technology and the desire to make a difference through impactful projects.
 - # **About Me**
     - 👀 I’m interested in Information Technology and innovative front-end solutions that enhance user experiences.
